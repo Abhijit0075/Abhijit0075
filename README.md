@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]()
 
-<h1 align="center">Hi 🌏, I'm [Abhijit Ghosh]</h1>
+<h1 align="center">Hi 🌏, I'm Abhijit Ghosh</h1>
 <h3 align="center">Roles and Positions separated by | </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
