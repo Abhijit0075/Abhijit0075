@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]()
 
 <h1 align="center">Hi 🌏, I'm Abhijit Ghosh</h1>
-<h3 align="center">Roles and Positions separated by | </h3>
-
+<h3 align="center">Learner |</h3>
+ 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
 
 <p align="left"> 
@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 💻 I’m currently focused on Python
-- 📱 Exploring backend development 
-- 🎨 Passionate about Cricket
+- 💻 I’m currently focused on backend & Database management 
+- 📱 Exploring Web development 
 - 📚 Always eager to Learn new things
 - 📫 Reach me at [*ga6759003@gmail.com*](mailto:ga6759003@gmail.com) <!-- 👉 Replace with your email -->
 
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
 ### 🧠 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,c,cpp,python" />
 </p>
 
 ---
@@ -62,7 +61,7 @@ Here are some ideas to get you started:
 ### 🛠 Tools & Tech
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ---
